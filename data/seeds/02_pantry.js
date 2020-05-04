@@ -6,7 +6,7 @@ exports.seed = async function(knex) {
         { item: 'Dill' },
         { item: 'Butter, salted' },
         { item: 'Salt, coarse kosher'},
-        { item: 'Pepper, black'}
+        { item: 'Pepper, black'},
         { item: 'Spinach' },
         { item: 'Garlic' },
         { item: 'Soy sauce' },
